@@ -1,2 +1,2 @@
-# ProjectLoki
-Fake API with Mock Data
+# NodeReactBaseProject
+Base Project
